@@ -284,7 +284,7 @@ const LandingPage = ({ onLoginClick }) => {
           <div className="flex flex-col md:flex-row items-center justify-between">
             <div className="flex items-center gap-2 mb-4 md:mb-0">
               <BookOpen className="h-6 w-6 text-green-400" />
-              <span className="font-semibold text-lg">PLATFORM PEMEBLAJARAN</span>
+              <span className="font-semibold text-lg">PLATFORM PEMBELAJARAN</span>
             </div>
             <p className="text-gray-400 text-center">
               © 2025 SD AL-IRSYAD AL-ISLAMIYYAH. Platform pembelajaran modern untuk generasi masa depan.
