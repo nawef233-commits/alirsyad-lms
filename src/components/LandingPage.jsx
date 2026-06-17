@@ -8,7 +8,7 @@ const LandingPage = ({ onLoginClick }) => {
     {
       icon: BookOpen,
       title: "Materi Interaktif",
-      description: "Belajar IPA dengan materi yang menarik dan mudah dipahami"
+      description: "Belajar dengan materi yang menarik dan mudah dipahami"
     },
     {
       icon: Brain,
@@ -44,11 +44,11 @@ const LandingPage = ({ onLoginClick }) => {
             <div className="space-y-8">
               <div className="flex items-center gap-2 text-white/90">
                 <BookOpen className="h-6 w-6" />
-                <span className="font-semibold">Learning Management System</span>
+                <span className="font-semibold">Platform Pembelajaran</span>
               </div>
               
               <h1 className="text-5xl lg:text-7xl font-bold leading-tight">
-                LMS IPA
+                PLATFORM PEMBELAJARAN
                 <span className="block text-3xl lg:text-4xl font-normal opacity-90 mt-2">
                   SD AL-IRSYAD AL-ISLAMIYYAH
                 </span>
@@ -181,7 +181,7 @@ const LandingPage = ({ onLoginClick }) => {
               <span className="block text-green-600">yang Menyenangkan</span>
             </h2>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-              Dilengkapi dengan berbagai fitur modern untuk mendukung pembelajaran IPA yang efektif dan interaktif
+              Dilengkapi dengan berbagai fitur modern untuk mendukung pembelajaran yang efektif dan interaktif
             </p>
           </div>
 
@@ -284,10 +284,10 @@ const LandingPage = ({ onLoginClick }) => {
           <div className="flex flex-col md:flex-row items-center justify-between">
             <div className="flex items-center gap-2 mb-4 md:mb-0">
               <BookOpen className="h-6 w-6 text-green-400" />
-              <span className="font-semibold text-lg">LMS IPA SD</span>
+              <span className="font-semibold text-lg">PLATFORM PEMEBLAJARAN</span>
             </div>
             <p className="text-gray-400 text-center">
-              © 2025 LMS IPA SD AL-IRSYAD AL-ISLAMIYYAH. Platform pembelajaran modern untuk generasi masa depan.
+              © 2025 SD AL-IRSYAD AL-ISLAMIYYAH. Platform pembelajaran modern untuk generasi masa depan.
             </p>
           </div>
         </div>
