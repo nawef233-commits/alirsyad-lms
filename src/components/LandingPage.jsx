@@ -55,7 +55,7 @@ const LandingPage = ({ onLoginClick }) => {
               </h1>
               
               <p className="text-xl lg:text-2xl leading-relaxed opacity-90">
-                Platform pembelajaran Ilmu Pengetahuan Alam yang interaktif dan menyenangkan untuk siswa sekolah dasar
+                Platform pembelajaran interaktif dan menyenangkan untuk siswa sekolah dasar
               </p>
               
               <div className="flex flex-col sm:flex-row gap-4">
