@@ -80,7 +80,7 @@ const LoginForm = ({ onBackToLanding }) => {
             </div>
           </div>
           <h1 className="text-3xl font-bold text-gray-900 mb-2">Platform Pembelajaran</h1>
-          <p className="text-gray-600">SD AL-IRSYAD AL-ISLAMIYYAHL</p>
+          <p className="text-gray-600">SD AL-IRSYAD AL-ISLAMIYYAH</p>
         </div>
 
         <Card>
