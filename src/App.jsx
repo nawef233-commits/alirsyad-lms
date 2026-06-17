@@ -43,7 +43,7 @@ const AppContent = () => {
                   <User className="h-6 w-6 text-white" />
                 </div>
                 <div>
-                  <h1 className="text-lg font-semibold text-gray-900">LMS IPA SD</h1>
+                  <h1 className="text-lg font-semibold text-gray-900">PLATFORM PEMBELAJARAN</h1>
                   <p className="text-sm text-gray-500">
                     {userRole === 'teacher' ? 'Dashboard Guru' : 'Dashboard Siswa'}
                   </p>
