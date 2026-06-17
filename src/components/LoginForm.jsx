@@ -79,8 +79,8 @@ const LoginForm = ({ onBackToLanding }) => {
               <BookOpen className="h-8 w-8 text-white" />
             </div>
           </div>
-          <h1 className="text-3xl font-bold text-gray-900 mb-2">LMS IPA SD</h1>
-          <p className="text-gray-600">Learning Management System untuk Ilmu Pengetahuan Alam</p>
+          <h1 className="text-3xl font-bold text-gray-900 mb-2">Platform Pembelajaran</h1>
+          <p className="text-gray-600">SD AL-IRSYAD AL-ISLAMIYYAHL</p>
         </div>
 
         <Card>
