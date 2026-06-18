@@ -287,7 +287,7 @@ const LandingPage = ({ onLoginClick }) => {
               <span className="font-semibold text-lg">PLATFORM PEMBELAJARAN</span>
             </div>
             <p className="text-gray-400 text-center">
-              © 2025 SD AL-IRSYAD AL-ISLAMIYYAH. Platform pembelajaran modern untuk generasi masa depan.
+              © 2026 SD AL-IRSYAD AL-ISLAMIYYAH. Platform pembelajaran modern untuk generasi masa depan.
             </p>
           </div>
         </div>
